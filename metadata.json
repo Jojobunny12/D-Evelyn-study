@@ -1,0 +1,6 @@
+{
+  "name": "GPA Battle Royale",
+  "description": "An elite and hilarious finals study deck builder where students upload a study sheet PDF or class code to survive Infinite Campus grade Panic with custom exam sims, timeline plans and active recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
